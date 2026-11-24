@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://esilva-boop.github.io/harborpoint-demo/sitemap.xml
